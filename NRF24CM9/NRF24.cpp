@@ -1,7 +1,7 @@
 /*********************************************************
  * Nrf Library - OpenCm9.04 Compatible
  * Author: Alireza Ahamdi (A2)
- * www.AhmadiAlireza.webs.com
+ * www.AlirezaAhmadi.xyz
  * Alireza.elecat@gmail.com
  * Release date: 23/05/2017
  *********************************************************/

@@ -3,4 +3,9 @@ in this project I've tried to use NRF2401 module for a long distance communicati
 
 to use it just you have to copy the extracted folder file to the library folder of your compiler source which its address could be something like this: C:\ROBOTIS\ROBOTIS-v1.0.4-windows\libraries\
 
-By: Alireza Ahmadi
+--- 
+ by: Alireza Ahmadi                                     
+ University of Bonn- Robotics & Geodetic Engineering
+ 
+ Alireza.Ahmadi@uni-bonn.de                             
+ [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
